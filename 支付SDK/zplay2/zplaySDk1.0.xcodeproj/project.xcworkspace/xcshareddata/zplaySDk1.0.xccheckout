@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61794BBD-3914-4643-85EF-6E299B1441E4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a65f4ca7-1881-4f10-90db-358f8819f604++1144</key>
+		<string>http://192.168.108.157:18080/svn/xtyfb/iphone/faxclient/HSShtFaxClient/HSShtFaxClient/SVProgressHUD</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a65f4ca7-1881-4f10-90db-358f8819f604++1144</key>
+		<string>SVProgressHUD/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>a65f4ca7-1881-4f10-90db-358f8819f604++1144</key>
+		<string>http://192.168.108.157:18080/svn/xtyfb</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.108.157:18080/svn/xtyfb/iphone/faxclient/HSShtFaxClient/HSShtFaxClient/SVProgressHUD</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a65f4ca7-1881-4f10-90db-358f8819f604++1144</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a65f4ca7-1881-4f10-90db-358f8819f604++1144</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SVProgressHUD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
